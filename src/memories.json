@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "TajMahal",
+    "image": "./images/TajMahal.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "TowerBridge_London",
+    "image": "./images/TowerBridge_London.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "SydneyOperaHouse_Australia",
+    "image": "./images/SydneyOperaHouse_Australia.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Stonehenge_England",
+    "image": "./images/Stonehenge_England.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Statue_of_Liberty.jpeg",
+    "image": "./images/Statue_of_Liberty.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Pyramids_Egypt",
+    "image": "./images/Pyramids_Egypt.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Niagra_Falls_Canada",
+    "image": "./images/Niagra_Falls_Canada.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Leaning_Tower_of_Pisa_Italy",
+    "image": "./images/Leaning_Tower_of_Pisa_Italy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "GreatWallofChina",
+    "image": "./images/GreatWallofChina.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Grand_Canon",
+    "image": "./images/Grand_Canon.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "eiffel_tower",
+    "image": "./images/eiffel_tower.webp",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Dubai.jpg",
+    "image": "./images/Dubai.jpg",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Athens_Acropolis",
+    "image": "./images/Athens_Acropolis.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Coluseum_Rome_Italy",
+    "image": "./images/Coluseum_Rome_Italy.jpeg",
+    "clicked": false
+  },
+
+  {"id": 15,
+    "name": "St.Basil_Moscow",
+    "image": "./images/St.Basil_Moscow.jpg",
+    "clicked": false
+  },
+  
+  {"id": 16,
+    "name": "Cristo_Redentor_Rio_de_Janeiro",
+    "image": "./images/Cristo_Redentor_Rio_de_Janeiro.jpeg",
+    "clicked": false
+  }
+]

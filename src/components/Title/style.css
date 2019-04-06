@@ -1,0 +1,29 @@
+.myHeader {
+  height: 100px;
+  padding: 100px;
+  width: 100%;
+  text-align: center;
+  text-emphasis-style: bold;
+  text-decoration: None;
+  color: white;
+  background: gray;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  
+}
+
+/*body {
+  background: url("./collection-landmarks.jpg");
+  
+  
+}*/
+
+h1 {
+  font-weight: 900;
+  
+}
+
+h2 {
+  font-weight: 900;
+  
+}
